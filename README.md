@@ -1,2 +1,4 @@
 # my-first-python-project
-Add user input into txt file in store in csv format. Display the result in bar graph using turtle library
+The user inputs the details of their favourite movies (movie name, genre and rating)
+The result is stored in comma separated format in a text file
+The text file is used to show the bar graph drawn using turtle library

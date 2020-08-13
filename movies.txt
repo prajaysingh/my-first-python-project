@@ -1,0 +1,11 @@
+The Shawshank Redemption,Historic,9
+Invictus,Historic,10
+The intern,Rom-com,7
+Captain Marvel,Si-Fi,8
+The Dark Knight,War,8
+Avatar,Animated,8
+The Lion King,Animated,7
+Black Panther,War,8
+The Avengers,War,10
+A Walk to Remember,Romance,9
+Life is Beautiful,War,9
